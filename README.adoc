@@ -1,0 +1,47 @@
+= Moodle Quizzes
+Thomas Stütz
+1.0.0, {docdate}
+ifndef::imagesdir[:imagesdir: images]
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+//:toc:
+//:toclevels: 4
+:experimental:
+//https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c41721dda74?permalink_comment_id=3948218
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Overview
+
+Repository for moodle questions for programming
+
+* Folder quiz-export
+** moodle export of the questions
+
+* Folder src
+** code fragments for moodle questions
+
+== Conventions
+
+* all moodle questions have a id
+
+|===
+|abbreviation |description
+
+|it
+|Iteration
+
+|sel
+|Selection
+
+|zk
+|Zeichenkette
+
+|===
+
+i.e. it-001
