@@ -26,6 +26,23 @@ Repository for moodle questions for programming
 * Folder src
 ** code fragments for moodle questions
 
+
+== How to get the sample-solutions
+
+=== Create a quiz
+
+image::create-quiz-001.png[]
+image::create-quiz-002.png[]
+
+=== Add Random Questions
+
+image::create-quiz-003-add-questions.png[]
+
+=== Create Sample solution Download
+
+image::create-sample-solution-download-001.png[]
+
+
 == Conventions
 
 * all moodle questions have a id
